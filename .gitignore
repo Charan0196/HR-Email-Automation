@@ -3,8 +3,8 @@
 # Email: charan0912k@gmail.com
 # GitHub: https://github.com/Charan0196
 
-# Sensitive files
-email_config.json
+# Sensitive files (keep template, ignore if it has real password)
+# email_config.json is included with placeholder password
 *.pdf
 *.docx
 

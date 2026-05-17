@@ -1,0 +1,47 @@
+{
+  "_comment": "HR Email Automation Configuration",
+  "_author": "Charan Kandimalla",
+  "_email": "charan0912k@gmail.com",
+  "_github": "https://github.com/Charan0196",
+  "_linkedin": "https://www.linkedin.com/in/charan-kandimalla-20a6923a6",
+  "_note": "Replace 'YOUR-APP-PASSWORD-HERE' with your actual Gmail app password",
+  
+  "email_settings": {
+    "sender_email": "charan0912k@gmail.com",
+    "sender_password": "YOUR-APP-PASSWORD-HERE",
+    "sender_name": "Charan Kandimalla",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+  },
+  
+  "resume_path": "/Users/charan/Desktop/charan/12/CHARAN-KANDIMALLA-resume.pdf",
+  
+  "candidate_info": {
+    "name": "Charan Kandimalla",
+    "email": "charan0912k@gmail.com",
+    "phone": "+91 9392884163",
+    "linkedin": "https://www.linkedin.com/in/charan-kandimalla-20a6923a6",
+    "github": "https://github.com/Charan0196",
+    "university": "JNTUH University College of Engineering Wanaparthy",
+    "degree": "B.Tech in Computer Science Engineering (AI & ML)",
+    "graduation_year": "2026",
+    "key_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "YOLOv8",
+      "Computer Vision",
+      "Blockchain",
+      "Solidity",
+      "DeFi",
+      "Web3"
+    ],
+    "key_projects": [
+      "CROSSFLOW-AI: AI-Powered Cross-Chain DeFi Trading Agent",
+      "Real-Time Object Detection System using YOLOv8",
+      "Blockchain-based Smart Contract Development"
+    ]
+  }
+}
