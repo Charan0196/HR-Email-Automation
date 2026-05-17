@@ -1,0 +1,13 @@
+# HR Email Automation - Python Dependencies
+# Author: Charan Kandimalla
+# Email: charan0912k@gmail.com
+# GitHub: https://github.com/Charan0196
+# LinkedIn: https://www.linkedin.com/in/charan-kandimalla-20a6923a6
+
+# No external dependencies required
+# Uses Python standard library only:
+# - smtplib (email sending)
+# - email.mime (email formatting)
+# - json (configuration)
+# - logging (tracking)
+# - time (rate limiting)

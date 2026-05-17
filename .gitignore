@@ -1,0 +1,37 @@
+# HR Email Automation - Git Ignore
+# Author: Charan Kandimalla
+# Email: charan0912k@gmail.com
+# GitHub: https://github.com/Charan0196
+
+# Sensitive files
+email_config.json
+*.pdf
+*.docx
+
+# Logs
+*.log
+email_automation.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep templates
+!email_config_template.json
+!hr_contacts_template.json
